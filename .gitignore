@@ -1,0 +1,14 @@
+# Android and Gradle generated files
+**/build/
+**/.gradle/
+**/.idea/
+**/.cxx/
+**/.externalNativeBuild/
+**/local.properties
+**/*.iml
+*.apk
+*.aab
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db

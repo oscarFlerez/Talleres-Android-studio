@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller Android</string>
+    <string name="menu_credito">Crédito</string>
+    <string name="menu_moneda">Moneda</string>
+    <string name="menu_ejemplo">Ejemplo</string>
+    <string name="titulo_inicio">Taller Android</string>
+    <string name="subtitulo_inicio">Elige la aplicación que deseas utilizar</string>
+    <string name="titulo">Calculadora de Créditos</string>
+    <string name="valor_credito">Valor del crédito</string>
+    <string name="ingrese_credito">Ingrese el valor del crédito</string>
+    <string name="numero_cuotas">Número de cuotas</string>
+    <string name="ingrese_cuotas">Ingrese el número de cuotas</string>
+    <string name="interes_mensual">Interés mensual (%)</string>
+    <string name="ejemplo_interes">Ejemplo: 2</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="valor_cuota">Valor de la cuota: $0.00</string>
+    <string name="valor_total">Valor total del crédito: $0.00</string>
+    <string name="total_intereses">Total de intereses: $0.00</string>
+    <string name="titulo_moneda">Convertidor de Moneda</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="convertir_de">Convertir de:</string>
+    <string name="convertir_a">Convertir a:</string>
+    <string name="convertir">CONVERTIR</string>
+    <string name="titulo_ejemplo">Ejemplo Simple</string>
+    <string name="dato">Dato:</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="mensaje_inicial">Mensaje</string>
+
+</resources>
